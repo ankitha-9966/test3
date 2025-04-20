@@ -11,3 +11,4 @@ def test_case2():
     updated_list=view_beneficiary_list()
     print(updated_list)
     assert "Ancy" not in updated_list
+    
